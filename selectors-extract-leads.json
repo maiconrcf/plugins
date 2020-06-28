@@ -1,0 +1,17 @@
+{
+    "whatsapp": {
+        "path": "#main > header"
+    },
+    "maps": {
+        "path": ".section-result",
+        "title": ".section-hero-header-title h1",
+        "btn_next": "button[id*=section-pagination-button-next]",
+        "back_to_list": ".section-back-to-list-button",
+        "result": ".section-result",
+        "result_content": ".section-result-content",
+    },
+    "google": {
+        "path": "#result-stats",
+        "next_page": "#pnnext"
+    }
+}
