@@ -8,7 +8,7 @@
         "btn_next": "button[id*=section-pagination-button-next]",
         "back_to_list": ".section-back-to-list-button",
         "result": ".section-result",
-        "result_content": ".section-result-content",
+        "result_content": ".section-result-content"
     },
     "google": {
         "path": "#result-stats",
