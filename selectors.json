@@ -27,7 +27,7 @@
         "msg_dblcheck_ack": "msg-dblcheck-ack",
         "msg_dblcheck": "msg-dblcheck",
         "chat_input": "[contenteditable='true']",
-        "chat_input_send": span[data-icon='send']",
+        "chat_input_send": "span[data-icon=\"send\"]",
         "contacts_group": "#main > header > div ~ div > div ~ div",
         "licenses": [
            "maiconrcf@gmail.com"
