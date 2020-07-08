@@ -26,6 +26,9 @@
         "msg_check": "msg-check",
         "msg_dblcheck_ack": "msg-dblcheck-ack",
         "msg_dblcheck": "msg-dblcheck",
-        "chat_input": "[contenteditable='true']"
+        "chat_input": "[contenteditable='true']",
+        "licenses": [
+           "maiconrcf@gmail.com"
+        ]
     }
 }
