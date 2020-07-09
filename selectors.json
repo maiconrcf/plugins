@@ -30,7 +30,8 @@
         "chat_input_send": "span[data-icon=\"send\"]",
         "contacts_group": "#main > header > div ~ div > div ~ div",
         "licenses": [
-           "maiconrcf@gmail.com"
+           "maiconrcf@gmail.com",
+           "test@whatscenter.com"
         ]
     }
 }
