@@ -1,0 +1,24 @@
+{
+    wa_user_chat: '#side #pane-side ._210SC',
+    wa_msg_chat: '.focusable-list-item', // Lista de todas as conversas enviadas e recebidas
+
+    wa_msg_box: '._3uMse', // Box para digitar mensagem
+    wa_msg_in: '.message-in .copyable-text span',
+    wa_msg_out: '.message-out .copyable-text span',
+
+    wa_msg_in_img: '.message-in .gDOmN img',
+    wa_msg_in_img_text: '.message-in .JfHHx span',
+    wa_msg_out_img: '.message-out .gDOmN img',
+    wa_msg_out_img_text: '.message-out .JfHHx span',
+
+    wa_msg_chat_hour: 'span._18lLQ', // Hora da msg enviada
+    wa_msg_chat_btn_send: '._1U1xa', // Botão de enviar mensagem
+    wa_msg_chat_enter_send: '._3FRCZ', // Div do texto da mensagem
+
+    wa_user_details: 'header', // header direito dos detalhes
+    wa_user_details_items: 'header',
+    wa_user_details_close: 'header .t4a8o',
+    wa_user_details_number: 'span .selectable-text ._1X4JR', // Número About and Phone Number
+    wa_user_details_name: 'span ._5h6Y_',
+    wa_user_details_name_alternative: '._1jlxc', // Nome abaixo do número e da foto
+}
