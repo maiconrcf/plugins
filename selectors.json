@@ -19,7 +19,7 @@
     "whatsgo": {
         "path": "#main > header",
         "startup": "#startup",
-        "invalid_number": "._2LPYs > div",
+        "invalid_number": "._20C5O > div",
         "not_logged": ".landing-main",
         "button_send": "span[data-icon='send",
         "message_out": ".message-out",
